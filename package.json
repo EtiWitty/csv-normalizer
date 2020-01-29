@@ -1,0 +1,26 @@
+{
+  "name": "csv-normalizer",
+  "version": "1.0.0",
+  "description": "normalize CSV data",
+  "scripts": {
+    "start": "./normalizer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EtiWitty/csv-normalizer.git"
+  },
+  "author": "Atiyeh Safi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EtiWitty/csv-normalizer/issues"
+  },
+  "homepage": "https://github.com/EtiWitty/csv-normalizer#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "date": "^1.0.2",
+    "line-reader": "^0.4.0",
+    "moment": "^2.24.0",
+    "readline": "^1.3.0",
+    "utf8": "^3.0.0"
+  }
+}
