@@ -12,6 +12,8 @@
 ## Usage
 
 > npm install
+> chmod a+x normalizer
+> ./normalizer < sample.csv
 
 ## Development
 
